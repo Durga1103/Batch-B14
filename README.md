@@ -131,7 +131,7 @@ Improve learning outcomes
 
 ▶️ How to Run
 # Clone repository
-git clone https://github.com/your-username/smart-education-ml.git
+git clone https://github.com/Durga1103/Smart-Education-Prediction-of-Learning-Effectiveness-using-Machine-Learning.git
 
 # Navigate folder
 cd smart-education-ml
